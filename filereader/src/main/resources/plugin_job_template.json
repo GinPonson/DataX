@@ -1,0 +1,9 @@
+{
+    "name": "filereader",
+    "parameter": {
+        "path": [],
+        "encoding": "",
+        "column": [],
+        "fieldDelimiter": ""
+    }
+}
